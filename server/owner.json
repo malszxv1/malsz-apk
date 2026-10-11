@@ -1,0 +1,17 @@
+{
+  "systemName": "Malsz AI Robot - Premium Cyber Companion",
+  "version": "1.0.0",
+  "bootstrap": {
+    "defaultOwnerUsername": "malsz",
+    "role": "OWNER",
+    "allowPublicRegistration": false,
+    "allowLifetimeAccounts": true,
+    "maxResellerAccountDays": 365,
+    "defaultMemberDays": 30
+  },
+  "security": {
+    "accessTokenExpiryMinutes": 60,
+    "refreshTokenExpiryDays": 30,
+    "bcryptSaltRounds": 10
+  }
+}

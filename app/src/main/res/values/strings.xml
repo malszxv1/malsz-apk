@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Malsz AI Robot</string>
+    <string name="accessibility_service_description">Layanan Aksesibilitas Malsz AI Robot digunakan secara sadar untuk membantu pengisian teks jawaban otomatis pada kolom formulir atau soal yang sedang aktif.</string>
+    <string name="welcome_malsz_project">Welcome to Malsz Project</string>
+    <string name="floating_ai_channel_name">Malsz Floating AI Service</string>
+    <string name="floating_ai_channel_desc">Layanan Floating Robot Asisten Malsz AI</string>
+</resources>

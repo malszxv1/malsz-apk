@@ -1,0 +1,6 @@
+{
+  "name": "Malsz AI Robot",
+  "description": "Premium Sci-Fi Cyber Companion with live authentication, role permissions, global chat, and Floating AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
